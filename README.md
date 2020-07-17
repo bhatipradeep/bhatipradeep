@@ -6,14 +6,6 @@
 <br />
 <br />
 
-  
-**Talking about Personal Stuffs:**
-
-- I am a undergraduate student.
-- I have a open source contribution in [Pied Piper](https://github.com/thehellmaker/pied-piper) 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: bh.pradeepsingh@gmail.com;
-
 **Languages and Tools:**  
 <code><img height="30" src="https://github.com/konpa/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="30" src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
