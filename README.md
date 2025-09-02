@@ -1,2 +1,216 @@
-<!-- Header Section with Animated Banner -->
-<div align=\"center\">\n  <img src=\"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Pradeepsingh+Bhati+%F0%9F%91%8B;SDE+2+at+Nutanix;Building+Robust+Backend+Systems;Passionate+about+Distributed+Systems\" alt=\"Typing SVG\" />\n</div>\n\n<h1 align=\"center\">\n  <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\"> \n  Welcome to my GitHub Profile! \n  <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\">\n</h1>\n\n<div align=\"center\">\n  <img src=\"https://komarev.com/ghpvc/?username=bhatipradeep&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS\" />\n  <img src=\"https://img.shields.io/github/followers/bhatipradeep?style=for-the-badge&color=blue\" />\n  <img src=\"https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-brightgreen?style=for-the-badge\" />\n</div>\n\n---\n\n## 🧑‍💻 About Me\n\n```yaml\nName: \"Pradeepsingh Bhati\"\nRole: \"SDE 2\"\nCompany: \"Nutanix\"\nLocation: \"Bangalore, India\"\nFocus: \"Building robust backend and distributed systems for cloud products\"\nMission: \"Passionate about solving complex problems through thoughtful system design\"\nCurrent_Work: \"Building backend services for cloud features\"\n```\n\n<img align=\"right\" alt=\"Coding GIF\" width=\"400\" src=\"https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif\"/>\n\n- 🔭 Currently working on **Backend services for cloud features** at **Nutanix**\n- 🌱 Building **distributed systems** and **cloud-native applications**\n- 👨‍💻 **Maintainer** of major open source projects at Nutanix\n- 💬 Ask me about **Go**, **Python**, **Kubernetes**, **Distributed Systems**\n- 📫 Reach me at **bh.pradeepsingh@gmail.com**\n- ⚡ Fun fact: I love solving complex system design problems!\n\n---\n\n## 🛠️ Tech Stack & Expertise\n\n### 💻 Programming Languages\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=go,python,java\" />\n</p>\n\n### 🚀 Backend & Cloud Technologies\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=docker,kubernetes,spring,prometheus,terraform,ansible\" />\n</p>\n\n### ☁️ Infrastructure & DevOps\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=linux,bash,git,github\" />\n</p>\n\n### 🗄️ Databases & Monitoring\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=postgresql,mongodb,redis,grafana\" />\n</p>\n\n---\n\n## 🏆 Professional Expertise\n\n<table align=\"center\">\n  <tr>\n    <td align=\"center\" width=\"200px\">\n      <img src=\"https://img.shields.io/badge/🏗️_Distributed_Systems-Expert-ff6b6b?style=for-the-badge\" /><br/>\n      <sub><b>Scalable Architecture Design</b></sub>\n    </td>\n    <td align=\"center\" width=\"200px\">\n      <img src=\"https://img.shields.io/badge/☸️_Kubernetes-Advanced-326ce5?style=for-the-badge\" /><br/>\n      <sub><b>Container Orchestration</b></sub>\n    </td>\n    <td align=\"center\" width=\"200px\">\n      <img src=\"https://img.shields.io/badge/📊_Observability-Pro-9b59b6?style=for-the-badge\" /><br/>\n      <sub><b>OpenTelemetry & Monitoring</b></sub>\n    </td>\n  </tr>\n  <tr>\n    <td align=\"center\" width=\"200px\">\n      <img src=\"https://img.shields.io/badge/☁️_Cloud_Systems-Specialist-f39c12?style=for-the-badge\" /><br/>\n      <sub><b>Private Cloud Infrastructure</b></sub>\n    </td>\n    <td align=\"center\" width=\"200px\">\n      <img src=\"https://img.shields.io/badge/🔧_DevOps-Advanced-e74c3c?style=for-the-badge\" /><br/>\n      <sub><b>CI/CD & Automation</b></sub>\n    </td>\n    <td align=\"center\" width=\"200px\">\n      <img src=\"https://img.shields.io/badge/📈_Performance-Optimizer-2ecc71?style=for-the-badge\" /><br/>\n      <sub><b>System Optimization</b></sub>\n    </td>\n  </tr>\n</table>\n\n---\n\n## 💼 Key Achievements at Nutanix\n\n### 🔍 **Distributed Tracing Framework**\nBuilt a comprehensive **OpenTelemetry-based tracing system** enabling end-to-end observability across multiple services and programming languages.\n\n### 📊 **Logging Sidecar Architecture**\nDesigned and developed a **Kubernetes logging sidecar** for streaming logs from multi-service containers to external collectors.\n\n### 📈 **Automated Metrics Collection**\nCreated **automated data collection cron jobs** to gather adoption metrics, providing continuous insights into platform usage and user engagement.\n\n### 🔧 **API Integration Framework**\nBuilt a **code framework for Nutanix APIs** in the Ansible plugin, significantly reducing development efforts and attracting external contributors.\n\n---\n\n## 🌟 Open Source Contributions\n\n<div align=\"center\">\n\n### 🚀 **Project Maintainer**\n\n[![Terraform Provider](https://img.shields.io/badge/🏗️_Nutanix_Terraform_Provider-Maintainer-orange?style=for-the-badge)](https://github.com/nutanix/terraform-provider-nutanix)\n\n[![Ansible Plugin](https://img.shields.io/badge/⚡_Nutanix_Ansible_Plugin-Maintainer-red?style=for-the-badge)](https://github.com/nutanix/nutanix.ansible)\n\n</div>\n\n---\n\n## 📊 GitHub Analytics\n\n<div align=\"center\">\n  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=bhatipradeep&show_icons=true&theme=radical&include_all_commits=true&count_private=true\"/>\n  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=bhatipradeep&layout=compact&langs_count=8&theme=radical\"/>\n</div>\n\n<div align=\"center\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=bhatipradeep&theme=radical\" alt=\"GitHub Streak\" />\n</div>\n\n---\n\n## 🏅 GitHub Trophies\n\n<div align=\"center\">\n  <img src=\"https://github-profile-trophy.vercel.app/?username=bhatipradeep&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1\" />\n</div>\n\n---\n\n## 🎯 Core Competencies\n\n<details>\n<summary><b>🏗️ System Design & Architecture</b></summary>\n\n- **Distributed Systems:** Designing fault-tolerant, scalable backend systems\n- **Microservices:** Building loosely coupled service architectures\n- **Cloud Infrastructure:** Private cloud and hybrid cloud solutions\n- **Performance Optimization:** System tuning and bottleneck resolution\n\n</details>\n\n<details>\n<summary><b>🔧 DevOps & Infrastructure</b></summary>\n\n- **Container Orchestration:** Kubernetes deployment and management\n- **Infrastructure as Code:** Terraform and Ansible automation\n- **Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry\n- **CI/CD Pipelines:** Automated testing and deployment workflows\n\n</details>\n\n<details>\n<summary><b>💻 Backend Development</b></summary>\n\n- **Languages:** Go, Python, Java/Spring Boot\n- **Databases:** SQL and NoSQL database design and optimization\n- **APIs:** RESTful services and microservice communication\n- **Security:** Authentication, authorization, and secure coding practices\n\n</details>\n\n---\n\n## 📫 Let's Connect!\n\n<div align=\"center\">\n  \n[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhatipradeep/)\n[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pradeep-bhati.vercel.app/)\n[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bh.pradeepsingh@gmail.com)\n[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhatipradeep)\n\n</div>\n\n---\n\n<div align=\"center\">\n  <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer\"/>\n</div>\n\n<div align=\"center\">\n  <b>\ud83d\udd25 \"Building the future, one distributed system at a time\" \ud83d\udd25</b>\n</div>\n\n<div align=\"center\">\n  <b>⭐ Star my repositories if you find them useful! ⭐</b>\n</div>
+<!-- Header with animated typing -->
+<div align=\"center\">
+  <img src=\"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Pradeepsingh+Bhati+👋;SDE+2+at+Nutanix;Building+Robust+Backend+Systems;Passionate+about+Distributed+Systems\" alt=\"Typing SVG\" />
+</div>
+
+<h1 align=\"center\">
+  <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\" />
+  Welcome to my GitHub Profile!
+  <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\" />
+</h1>
+
+<div align=\"center\">
+  <img src=\"https://komarev.com/ghpvc/?username=bhatipradeep&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS\" />
+  <img src=\"https://img.shields.io/github/followers/bhatipradeep?style=for-the-badge&color=blue\" />
+  <img src=\"https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-brightgreen?style=for-the-badge\" />
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+Name: "Pradeepsingh Bhati"
+Role: "SDE 2"
+Company: "Nutanix"
+Location: "Bangalore, India"
+Focus: "Building robust backend and distributed systems for cloud products"
+Mission: "Passionate about solving complex problems through thoughtful system design"
+Current_Work: "Building backend services for cloud features"
+```
+
+<img align=\"right\" alt=\"Coding GIF\" width=\"400\" src=\"https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif\" />
+
+- 🔭 Currently working on **Backend services for cloud features** at **Nutanix**
+- 🌱 Building **distributed systems** and **cloud-native applications**
+- 👨‍💻 **Maintainer** of major open source projects at Nutanix
+- 💬 Ask me about **Go**, **Python**, **Kubernetes**, **Distributed Systems**
+- 📫 Reach me at **bh.pradeepsingh@gmail.com**
+- ⚡ Fun fact: I love solving complex system design problems!
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 💻 Programming Languages
+<p align=\"center\">
+  <img src=\"https://skillicons.dev/icons?i=go,python,java\" />
+</p>
+
+### 🚀 Backend & Cloud Technologies
+<p align=\"center\">
+  <img src=\"https://skillicons.dev/icons?i=docker,kubernetes,spring,prometheus,terraform,ansible\" />
+</p>
+
+### ☁️ Infrastructure & DevOps
+<p align=\"center\">
+  <img src=\"https://skillicons.dev/icons?i=linux,bash,git,github\" />
+</p>
+
+### 🗄️ Databases & Monitoring
+<p align=\"center\">
+  <img src=\"https://skillicons.dev/icons?i=postgresql,mongodb,redis,grafana\" />
+</p>
+
+---
+
+## 🏆 Professional Expertise
+
+<table align=\"center\">
+  <tr>
+    <td align=\"center\" width=\"200px\">
+      <img src=\"https://img.shields.io/badge/🏗️_Distributed_Systems-Expert-ff6b6b?style=for-the-badge\" />
+      <br />
+      <sub><b>Scalable Architecture Design</b></sub>
+    </td>
+    <td align=\"center\" width=\"200px\">
+      <img src=\"https://img.shields.io/badge/☸️_Kubernetes-Advanced-326ce5?style=for-the-badge\" />
+      <br />
+      <sub><b>Container Orchestration</b></sub>
+    </td>
+    <td align=\"center\" width=\"200px\">
+      <img src=\"https://img.shields.io/badge/📊_Observability-Pro-9b59b6?style=for-the-badge\" />
+      <br />
+      <sub><b>OpenTelemetry & Monitoring</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align=\"center\" width=\"200px\">
+      <img src=\"https://img.shields.io/badge/☁️_Cloud_Systems-Specialist-f39c12?style=for-the-badge\" />
+      <br />
+      <sub><b>Private Cloud Infrastructure</b></sub>
+    </td>
+    <td align=\"center\" width=\"200px\">
+      <img src=\"https://img.shields.io/badge/🔧_DevOps-Advanced-e74c3c?style=for-the-badge\" />
+      <br />
+      <sub><b>CI/CD & Automation</b></sub>
+    </td>
+    <td align=\"center\" width=\"200px\">
+      <img src=\"https://img.shields.io/badge/📈_Performance-Optimizer-2ecc71?style=for-the-badge\" />
+      <br />
+      <sub><b>System Optimization</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Key Achievements at Nutanix
+
+### 🔍 **Distributed Tracing Framework**
+Built a comprehensive **OpenTelemetry-based tracing system** enabling end-to-end observability across multiple services and programming languages.
+
+### 📊 **Logging Sidecar Architecture**
+Designed and developed a **Kubernetes logging sidecar** for streaming logs from multi-service containers to external collectors.
+
+### 📈 **Automated Metrics Collection**
+Created **automated data collection cron jobs** to gather adoption metrics, providing continuous insights into platform usage and user engagement.
+
+### 🔧 **API Integration Framework**
+Built a **code framework for Nutanix APIs** in the Ansible plugin, significantly reducing development efforts and attracting external contributors.
+
+---
+
+## 🌟 Open Source Contributions
+
+<div align=\"center\">
+
+### 🚀 **Project Maintainer**
+
+[![Terraform Provider](https://img.shields.io/badge/🏗️_Nutanix_Terraform_Provider-Maintainer-orange?style=for-the-badge)](https://github.com/nutanix/terraform-provider-nutanix)
+
+[![Ansible Plugin](https://img.shields.io/badge/⚡_Nutanix_Ansible_Plugin-Maintainer-red?style=for-the-badge)](https://github.com/nutanix/nutanix.ansible)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align=\"center\">
+  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=bhatipradeep&show_icons=true&theme=radical&include_all_commits=true&count_private=true\" />
+  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=bhatipradeep&layout=compact&langs_count=8&theme=radical\" />
+</div>
+
+<div align=\"center\">
+  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=bhatipradeep&theme=radical\" alt=\"GitHub Streak\" />
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align=\"center\">
+  <img src=\"https://github-profile-trophy.vercel.app/?username=bhatipradeep&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1\" />
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<details>
+<summary><b>🏗️ System Design & Architecture</b></summary>
+
+- **Distributed Systems:** Designing fault-tolerant, scalable backend systems
+- **Microservices:** Building loosely coupled service architectures
+- **Cloud Infrastructure:** Private cloud and hybrid cloud solutions
+- **Performance Optimization:** System tuning and bottleneck resolution
+
+</details>
+
+<details>
+<summary><b>🔧 DevOps & Infrastructure</b></summary>
+
+- **Container Orchestration:** Kubernetes deployment and management
+- **Infrastructure as Code:** Terraform and Ansible automation
+- **Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry
+- **CI/CD Pipelines:** Automated testing and deployment workflows
+
+</details>
+
+<details>
+<summary><b>💻 Backend Development</b></summary>
+
+- **Languages:** Go, Python, Java/Spring Boot
+- **Databases:** SQL and NoSQL database design and optimization
+- **APIs:** RESTful services and microservice communication
+- **Security:** Authentication, authorization, and secure coding practices
+
+</details>
+
+---
+
+## 📫 Let's Connect!
+
+<div align=\"center\">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhatipradeep/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pradeep-bhati.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bh.pradeepsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhatipradeep)
+
+</div>
+
+---
+
+<div align=\"center\">
+  <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer\" />
+</div>
+
+<div align=\"center\">
+  <b>🔥 \"Building the future, one distributed system at a time\" 🔥</b>
+</div>
+
+<div align=\"center\">
+  <b>⭐ Star my repositories if you find them useful! ⭐</b>
+</div>
